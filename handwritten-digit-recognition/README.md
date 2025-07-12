@@ -86,6 +86,7 @@ streamlit run app/streamlit_app.py
 
 
 📊 Results
+
 ✅ Test Accuracy: ~98.6%
 
 📉 Loss Curve & Confusion Matrix:
@@ -113,6 +114,7 @@ UI: Streamlit
  LinkedIn: www.linkedin.com/in/rajwant-raj-350519369
 
 ❤️ Made For
+
 A deep learning internship project ( at Scalezix ) to demonstrate CNN-based digit recognition with a clean interactive UI using Streamlit.
 
 📜 License
