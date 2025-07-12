@@ -72,14 +72,13 @@ pip install -r requirements.txt
 
 ### 🔧 Setup
 
-```bash
+bash
 git clone https://github.com/your-username/digit-recognition-dl.git
 cd digit-recognition-dl
 pip install -r requirements.txt
 
 ▶️ Run Streamlit App
-
-```bash
+bash
 streamlit run app/streamlit_app.py
 
 
