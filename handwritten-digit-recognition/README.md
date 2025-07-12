@@ -39,21 +39,6 @@ digit-recognition-dl/
 
 ---
 
-## 🚀 How to Run
-
-### 🔧 Setup
-
-bash
-git clone https://github.com/your-username/digit-recognition-dl.git
-cd digit-recognition-dl
-pip install -r requirements.txt
-
-▶️ Run Streamlit App
-
-bash
-streamlit run app/streamlit_app.py
-
----
 
 🧠 Model Architecture
  2x Conv2D Layers
@@ -82,6 +67,25 @@ pip install -r requirements.txt
 
 ---
 
+
+## 🚀 How to Run
+
+### 🔧 Setup
+
+```bash
+git clone https://github.com/your-username/digit-recognition-dl.git
+cd digit-recognition-dl
+pip install -r requirements.txt
+
+▶️ Run Streamlit App
+
+bash
+streamlit run app/streamlit_app.py
+
+
+---
+
+
 📊 Results
 ✅ Test Accuracy: ~98.6%
 
@@ -102,8 +106,11 @@ UI: Streamlit
 
 ---
 👤 Author
+
  Developed by Rajwant raj
+ 
  GitHub: github.com/rajwant-raj
+ 
  LinkedIn: www.linkedin.com/in/rajwant-raj-350519369
 
 ❤️ Made For
