@@ -7,7 +7,7 @@ It uses a Convolutional Neural Network (CNN) trained on the MNIST dataset and fe
 
 ## 🎯 Objective
 
-To create an intuitive, browser-based app where users can draw a digit and receive instant predictions from a trained deep learning model.
+To create an intuitive, web app where users can upload a digit image and receive instant predictions from a trained deep learning model.
 
 ---
 
